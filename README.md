@@ -1,18 +1,21 @@
 ### Hi there 👋
 
-<!--
-**S-Vishwaja/S-Vishwaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m <h1>  currently working on Study  Space  org
-- 🌱 I’m currently learning Html and CSS
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me:<a href="https://scratch.mit.edu/users/Aveolon/">Scratch</a> 
-                     :<a href="www.sachiruvishwaja@gmail.com">Scratch</a>  
+<h1> I'm a boy 13 </h1>
 
-- 😄 Pronouns: He
-- ⚡ Fun fact: I was well known in my  country  near  2019
--->   </h1>
+<h1> I'm currently working on Study space organisation </h2>
+<h1> I'm intrested in <h2>
+
+<h2>Web designing <h2>
+<h2>Game-Making <h2>
+<h2>Reading books <h2>
+<h2>Space <h2>
+
+
+<h1> How to reach me <h1>
+
+<a href="https://scratch.mit.edu/users/Aveolon/">Scratch</a> 
+<a href="www.sachiruvishwaja@gmail.com">Gmail</a>  
