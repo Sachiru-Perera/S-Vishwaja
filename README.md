@@ -18,5 +18,7 @@
 
 <p1><a href="https://scratch.mit.edu/users/Aveolon/">Scratch</a> ,<a href="www.sachiruvishwaja@gmail.com">Gmail</a>  </p1>  
   
+ <h2>  Trophies <h2>
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=S-Vishwaja)](https://github.com/ryo-ma/github-profile-trophy)
 
