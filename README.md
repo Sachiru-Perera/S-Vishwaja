@@ -1,4 +1,4 @@
-<h1>  Hi there  <h1>  <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif"width=10%  height=10%>
+<h1>  Hi there!  <h1>  <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif"width=10%  height=10%>
 <!DOCTYPE html>
 <html>
 
