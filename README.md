@@ -16,5 +16,4 @@
 
 <h2> How to reach me <h2>
 
-<a href="https://scratch.mit.edu/users/Aveolon/">Scratch</a> 
-<a href="www.sachiruvishwaja@gmail.com">Gmail</a>  
+<p1><a href="https://scratch.mit.edu/users/Aveolon/">Scratch</a> ,<a href="www.sachiruvishwaja@gmail.com">Gmail</a>  </p1>  
