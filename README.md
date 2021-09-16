@@ -17,3 +17,6 @@
 <h2> How to reach me <h2>
 
 <p1><a href="https://scratch.mit.edu/users/Aveolon/">Scratch</a> ,<a href="www.sachiruvishwaja@gmail.com">Gmail</a>  </p1>  
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
