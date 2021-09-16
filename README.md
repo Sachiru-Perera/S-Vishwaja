@@ -5,7 +5,7 @@
 
 <h2> I'm a boy 13 </h2>
 
-<h2>I'm currently working on Study space organisation </h2>
+<h2>I'm currently working on Study space organization </h2>
 <h2> I'm intrested in <h2>
 
 <h3>ㅤWeb designing <h3>
