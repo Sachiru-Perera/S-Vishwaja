@@ -23,5 +23,5 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=S-Vishwaja)](https://github.com/ryo-ma/github-profile-trophy)
    
    
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraininja360&title_color=0068ff&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true)](https://github.com/nodexninja.gitihub.io)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraininja360&title_color=0068ff&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true)](https://github.com/S-vishwaja.gitihub.io)
 
