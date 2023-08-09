@@ -1,4 +1,4 @@
-<h1>  Hi there!  <h1>  <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif"width=10%  height=10%>
+<!--<h1>  Hi there!  <h1>  <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif"width=10%  height=10%>
 <!DOCTYPE html>
 <html>
 
@@ -25,3 +25,4 @@
    
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Vishwaja&title_color=0068ff&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true)](https://github.com/S-vishwaja.gitihub.io)
 
+-->
